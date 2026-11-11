@@ -95,3 +95,7 @@ Five automated checks, all writing to one shared results table (record, check, p
 - Pick a random sample of at least 30 permits (5 to 10% of permits, whichever is larger), weighted toward permits whose unit ID text contains "and," commas, or letters.
 - For each, check the unit count, IDs, ratings, and emission limits by hand against the source PDF.
 - Log every discrepancy in the shared results table and publish the resulting error rate alongside the data.
+
+## License
+
+All code, data, and documentation in this repository are released under the [MIT License](LICENSE).
