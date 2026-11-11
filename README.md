@@ -99,3 +99,17 @@ Five automated checks, all writing to one shared results table (record, check, p
 ## License
 
 All code, data, and documentation in this repository are released under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Alyx Batte.
+
+## How to cite
+
+If you use this code or data, please cite it as:
+
+> Batte, Alyx. *DEQ Generator Impact: Permitted diesel generators in Virginia DEQ's Northern Region.* 2026. GitHub repository, https://github.com/Salmonllama/deq-generator-impact
+
+Because the data is still being corrected (see [Known data issues](#known-data-issues)), please also note the commit hash or date of the version you used.
+
+## Contact
+
+For questions, corrections, or feedback, please [open an issue](https://github.com/Salmonllama/deq-generator-impact/issues) on this repository.
