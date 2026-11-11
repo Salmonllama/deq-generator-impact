@@ -1,0 +1,41 @@
+{
+  "registration_number": "73230",
+  "facility_name": "Gannett Co., Inc",
+  "primary_street_address": "7950 Jones Branch Drive",
+  "additional_campus_addresses": null,
+  "county_or_city": "Fairfax",
+  "permit_issue_date": "2009-01-09",
+  "supersedes_prior_permit": false,
+  "superseded_permit_dates": null,
+  "fuel_type": "Diesel fuel oil",
+  "max_fuel_sulfur_ppm": 500.0,
+  "combined_annual_fuel_limit_gallons": null,
+  "facility_nox_tpy_limit": 20.44,
+  "facility_co_tpy_limit": 1.49,
+  "facility_pm25_tpy_limit": null,
+  "facility_voc_tpy_limit": null,
+  "facility_so2_tpy_limit": null,
+  "generator_groups": [
+    {
+      "unit_prefix": "",
+      "start_unit_number": 1,
+      "end_unit_number": 4,
+      "raw_unit_id_text": "1-4",
+      "equipment_status": "New_or_Modified",
+      "building_or_phase_label": null,
+      "engine_usage_type": "Emergency",
+      "rated_capacity_value": 1000.0,
+      "rated_capacity_unit": "kW",
+      "epa_tier_level": "Unlisted",
+      "has_scr_control": false,
+      "max_operating_hours_per_unit_yr": null,
+      "nox_lb_hr_per_unit": 40.87,
+      "co_lb_hr_per_unit": 2.97,
+      "pm25_lb_hr_per_unit": null,
+      "voc_lb_hr_per_unit": null,
+      "so2_lb_hr_per_unit": null,
+      "source_page_numbers": "4, 8",
+      "verbatim_evidence_quote": "Four (4) CAT 3508 B engine-generator sets 1000 ekW (1502 bhp) ... Nitrogen Oxides (as NO2) 40.87 lbs/hr"
+    }
+  ]
+}

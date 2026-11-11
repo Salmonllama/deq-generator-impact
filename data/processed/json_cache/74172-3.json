@@ -1,0 +1,41 @@
+{
+  "registration_number": "74172",
+  "facility_name": "Remington Technology Park",
+  "primary_street_address": "12270 Lucky Hill Rd.",
+  "additional_campus_addresses": null,
+  "county_or_city": "Fauquier County",
+  "permit_issue_date": "2022-12-06",
+  "supersedes_prior_permit": true,
+  "superseded_permit_dates": "October 3, 2019, as amended May 3, 2021",
+  "fuel_type": "Pipeline quality natural gas",
+  "max_fuel_sulfur_ppm": null,
+  "combined_annual_fuel_limit_gallons": null,
+  "facility_nox_tpy_limit": 18.24,
+  "facility_co_tpy_limit": 20.16,
+  "facility_pm25_tpy_limit": 4.8,
+  "facility_voc_tpy_limit": 30.47,
+  "facility_so2_tpy_limit": null,
+  "generator_groups": [
+    {
+      "unit_prefix": "Gen ",
+      "start_unit_number": 1,
+      "end_unit_number": 24,
+      "raw_unit_id_text": "Gen 1 – Gen 24",
+      "equipment_status": "New_or_Modified",
+      "building_or_phase_label": null,
+      "engine_usage_type": "Non-Emergency",
+      "rated_capacity_value": 2485.0,
+      "rated_capacity_unit": "kW",
+      "epa_tier_level": "Unlisted",
+      "has_scr_control": true,
+      "max_operating_hours_per_unit_yr": 2000.0,
+      "nox_lb_hr_per_unit": 0.76,
+      "co_lb_hr_per_unit": 0.84,
+      "pm25_lb_hr_per_unit": 0.2,
+      "voc_lb_hr_per_unit": 1.27,
+      "so2_lb_hr_per_unit": null,
+      "source_page_numbers": "4, 8, 9",
+      "verbatim_evidence_quote": "Twenty Four (24) Caterpillar G3520H natural gas engine gen-sets | 3,448 bhp 2,485 ekW (each unit) | Nitrogen Oxides (as NO2) Controlled 0.76 lbs/hr"
+    }
+  ]
+}

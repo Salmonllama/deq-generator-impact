@@ -1,0 +1,41 @@
+{
+  "registration_number": "74341",
+  "facility_name": "Clean Arc Data Centers VA-1 LLC",
+  "primary_street_address": "Intersection of Bull Church Rd and Ladysmith Rd",
+  "additional_campus_addresses": null,
+  "county_or_city": "Caroline County",
+  "permit_issue_date": "2026-07-02",
+  "supersedes_prior_permit": false,
+  "superseded_permit_dates": null,
+  "fuel_type": "Ultra-Low Sulfur Diesel (ULSD)",
+  "max_fuel_sulfur_ppm": 15.0,
+  "combined_annual_fuel_limit_gallons": null,
+  "facility_nox_tpy_limit": 88.01,
+  "facility_co_tpy_limit": 28.53,
+  "facility_pm25_tpy_limit": 21.99,
+  "facility_voc_tpy_limit": 1.93,
+  "facility_so2_tpy_limit": null,
+  "generator_groups": [
+    {
+      "unit_prefix": "",
+      "start_unit_number": 1,
+      "end_unit_number": 1332,
+      "raw_unit_id_text": "1 through 1,332",
+      "equipment_status": "New_or_Modified",
+      "building_or_phase_label": null,
+      "engine_usage_type": "Emergency",
+      "rated_capacity_value": 932.0,
+      "rated_capacity_unit": "bhp",
+      "epa_tier_level": "Tier 2",
+      "has_scr_control": true,
+      "max_operating_hours_per_unit_yr": 500.0,
+      "nox_lb_hr_per_unit": 0.38,
+      "co_lb_hr_per_unit": 0.14,
+      "pm25_lb_hr_per_unit": 0.12,
+      "voc_lb_hr_per_unit": 0.01,
+      "so2_lb_hr_per_unit": null,
+      "source_page_numbers": "6, 10, 12, 18",
+      "verbatim_evidence_quote": "1 through 1,332 One thousand three hundred and thirty-two (1,332) Volvo Penta TWD1683GE-B Emergency Diesel Engine Gen-sets 932 bhp 685 mkW (625 ekW) (each) Selective Catalytic Reduction (SCR); Nitrogen Oxides (NOx as NO2) 0.38 lbs/hr"
+    }
+  ]
+}

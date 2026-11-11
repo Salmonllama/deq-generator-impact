@@ -1,0 +1,41 @@
+{
+  "registration_number": "74349",
+  "facility_name": "Amazon Data Services, Inc. (IAD-264)",
+  "primary_street_address": "13720 University Blvd, Gainesville, VA 20155",
+  "additional_campus_addresses": null,
+  "county_or_city": "Prince William",
+  "permit_issue_date": "2026-07-29",
+  "supersedes_prior_permit": true,
+  "superseded_permit_dates": "November 21, 2025",
+  "fuel_type": "Ultra-Low Sulfur Diesel (ULSD)",
+  "max_fuel_sulfur_ppm": 15.0,
+  "combined_annual_fuel_limit_gallons": 79776.0,
+  "facility_nox_tpy_limit": 16.69,
+  "facility_co_tpy_limit": 8.24,
+  "facility_pm25_tpy_limit": 3.07,
+  "facility_voc_tpy_limit": 8.36,
+  "facility_so2_tpy_limit": null,
+  "generator_groups": [
+    {
+      "unit_prefix": "",
+      "start_unit_number": 131,
+      "end_unit_number": 179,
+      "raw_unit_id_text": "131 through 179",
+      "equipment_status": "New_or_Modified",
+      "building_or_phase_label": null,
+      "engine_usage_type": "Emergency",
+      "rated_capacity_value": 2250.0,
+      "rated_capacity_unit": "kW",
+      "epa_tier_level": "Tier 2",
+      "has_scr_control": false,
+      "max_operating_hours_per_unit_yr": 500.0,
+      "nox_lb_hr_per_unit": 43.46,
+      "co_lb_hr_per_unit": 6.95,
+      "pm25_lb_hr_per_unit": 0.96,
+      "voc_lb_hr_per_unit": 2.58,
+      "so2_lb_hr_per_unit": null,
+      "source_page_numbers": "5, 8, 10, 13",
+      "verbatim_evidence_quote": "131 through 179 Forty-nine (49) Rolls Royce MTU Model 16V4000 G84S/DS2250 emergency diesel engine gen-sets 2,250 ekW 3,353 bhp; Nitrogen Oxides (NOx as NO2) 43.46 lb/hr"
+    }
+  ]
+}

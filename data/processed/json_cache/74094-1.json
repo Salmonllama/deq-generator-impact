@@ -1,0 +1,43 @@
+{
+  "registration_number": "74094",
+  "facility_name": "RagingWire VA2 Data Center",
+  "primary_street_address": "44610 Guilford Drive",
+  "additional_campus_addresses": [
+    "44664 Guilford Drive"
+  ],
+  "county_or_city": "Loudoun",
+  "permit_issue_date": "2016-01-13",
+  "supersedes_prior_permit": false,
+  "superseded_permit_dates": null,
+  "fuel_type": "Ultra-Low Sulfur Diesel (ULSD)",
+  "max_fuel_sulfur_ppm": 15.0,
+  "combined_annual_fuel_limit_gallons": null,
+  "facility_nox_tpy_limit": 84.53,
+  "facility_co_tpy_limit": 5.64,
+  "facility_pm25_tpy_limit": 1.27,
+  "facility_voc_tpy_limit": 1.13,
+  "facility_so2_tpy_limit": null,
+  "generator_groups": [
+    {
+      "unit_prefix": "",
+      "start_unit_number": 21,
+      "end_unit_number": 29,
+      "raw_unit_id_text": "21M thru 23M, 21U thru 24U, 24M, and 25U thru 29U",
+      "equipment_status": "New_or_Modified",
+      "building_or_phase_label": null,
+      "engine_usage_type": "Emergency",
+      "rated_capacity_value": 2250.0,
+      "rated_capacity_unit": "kW",
+      "epa_tier_level": "Tier 2",
+      "has_scr_control": false,
+      "max_operating_hours_per_unit_yr": 300.0,
+      "nox_lb_hr_per_unit": 43.35,
+      "co_lb_hr_per_unit": 2.89,
+      "pm25_lb_hr_per_unit": 0.65,
+      "voc_lb_hr_per_unit": 0.58,
+      "so2_lb_hr_per_unit": null,
+      "source_page_numbers": "4, 6, 7",
+      "verbatim_evidence_quote": "Thirteen (13) Cummins QSK60-G14 NR2 model diesel engine emergency gen-sets; Rated Capacity: 2,250 kW / 3,280 bhp (each); NOx: 43.35 lb/hr"
+    }
+  ]
+}

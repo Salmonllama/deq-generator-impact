@@ -1,0 +1,19 @@
+{
+  "registration_number": "73643",
+  "facility_name": "VISA, Inc.",
+  "primary_street_address": "45005 Russell Branch Parkway",
+  "additional_campus_addresses": null,
+  "county_or_city": "Loudoun",
+  "permit_issue_date": "2011-10-13",
+  "supersedes_prior_permit": false,
+  "superseded_permit_dates": null,
+  "fuel_type": "Diesel",
+  "max_fuel_sulfur_ppm": null,
+  "combined_annual_fuel_limit_gallons": null,
+  "facility_nox_tpy_limit": null,
+  "facility_co_tpy_limit": null,
+  "facility_pm25_tpy_limit": null,
+  "facility_voc_tpy_limit": null,
+  "facility_so2_tpy_limit": null,
+  "generator_groups": []
+}

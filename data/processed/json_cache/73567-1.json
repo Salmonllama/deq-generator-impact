@@ -1,0 +1,41 @@
+{
+  "registration_number": "73567",
+  "facility_name": "Digital Reston, LLC",
+  "primary_street_address": "1807 Michael Faraday Court",
+  "additional_campus_addresses": null,
+  "county_or_city": "Fairfax",
+  "permit_issue_date": "2007-11-07",
+  "supersedes_prior_permit": false,
+  "superseded_permit_dates": null,
+  "fuel_type": "Low Sulfur Diesel",
+  "max_fuel_sulfur_ppm": 500.0,
+  "combined_annual_fuel_limit_gallons": null,
+  "facility_nox_tpy_limit": 17.0,
+  "facility_co_tpy_limit": null,
+  "facility_pm25_tpy_limit": null,
+  "facility_voc_tpy_limit": null,
+  "facility_so2_tpy_limit": null,
+  "generator_groups": [
+    {
+      "unit_prefix": "",
+      "start_unit_number": 1,
+      "end_unit_number": 2,
+      "raw_unit_id_text": "1, 2",
+      "equipment_status": "New_or_Modified",
+      "building_or_phase_label": null,
+      "engine_usage_type": "Emergency",
+      "rated_capacity_value": 2000.0,
+      "rated_capacity_unit": "kW",
+      "epa_tier_level": "Unlisted",
+      "has_scr_control": false,
+      "max_operating_hours_per_unit_yr": 500.0,
+      "nox_lb_hr_per_unit": 34.0,
+      "co_lb_hr_per_unit": 4.7,
+      "pm25_lb_hr_per_unit": null,
+      "voc_lb_hr_per_unit": null,
+      "so2_lb_hr_per_unit": null,
+      "source_page_numbers": "4, 5, 7",
+      "verbatim_evidence_quote": "1 Caterpillar 3516B Diesel Engine Generator Set 2,190 BHP 2,000 kW; Nitrogen Oxides (as NO2) 34.0 lbs/hr"
+    }
+  ]
+}

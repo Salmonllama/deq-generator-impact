@@ -1,0 +1,41 @@
+{
+  "registration_number": "74287",
+  "facility_name": "Vantage Data Centers VA16, LLC",
+  "primary_street_address": "22321 Pacific Blvd",
+  "additional_campus_addresses": null,
+  "county_or_city": "Loudoun",
+  "permit_issue_date": "2024-10-15",
+  "supersedes_prior_permit": false,
+  "superseded_permit_dates": null,
+  "fuel_type": "Ultra-Low Sulfur Diesel (ULSD)",
+  "max_fuel_sulfur_ppm": 15.0,
+  "combined_annual_fuel_limit_gallons": 685325.0,
+  "facility_nox_tpy_limit": 95.0,
+  "facility_co_tpy_limit": 39.41,
+  "facility_pm25_tpy_limit": 2.78,
+  "facility_voc_tpy_limit": 5.29,
+  "facility_so2_tpy_limit": null,
+  "generator_groups": [
+    {
+      "unit_prefix": "EG-",
+      "start_unit_number": 1,
+      "end_unit_number": 22,
+      "raw_unit_id_text": "EG-01 through EG-22",
+      "equipment_status": "New_or_Modified",
+      "building_or_phase_label": null,
+      "engine_usage_type": "Emergency",
+      "rated_capacity_value": 2750.0,
+      "rated_capacity_unit": "kW",
+      "epa_tier_level": "Tier 2",
+      "has_scr_control": false,
+      "max_operating_hours_per_unit_yr": 500.0,
+      "nox_lb_hr_per_unit": 53.48,
+      "co_lb_hr_per_unit": 10.34,
+      "pm25_lb_hr_per_unit": 0.83,
+      "voc_lb_hr_per_unit": 0.89,
+      "so2_lb_hr_per_unit": null,
+      "source_page_numbers": "4, 7, 9, 12",
+      "verbatim_evidence_quote": "EG-01 through EG-22 Twenty- two (22) Caterpillar Model 3516E Diesel-fired emergency engine generator sets (gen-sets) 2,750 ekW / 4,043 bhp (each); Nitrogen Oxides (NOX as NO2) 53.48 lbs/hr"
+    }
+  ]
+}

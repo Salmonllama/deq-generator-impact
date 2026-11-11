@@ -1,0 +1,41 @@
+{
+  "registration_number": "74276",
+  "facility_name": "Ashburn Data Property Owner, L.P.",
+  "primary_street_address": "21800 Beaumeade Circle, Ashburn, VA 20147",
+  "additional_campus_addresses": null,
+  "county_or_city": "Loudoun",
+  "permit_issue_date": "2023-11-13",
+  "supersedes_prior_permit": false,
+  "superseded_permit_dates": null,
+  "fuel_type": "Ultra-Low Sulfur Diesel (ULSD)",
+  "max_fuel_sulfur_ppm": 15.0,
+  "combined_annual_fuel_limit_gallons": null,
+  "facility_nox_tpy_limit": 75.54,
+  "facility_co_tpy_limit": 15.11,
+  "facility_pm25_tpy_limit": 1.19,
+  "facility_voc_tpy_limit": 0.76,
+  "facility_so2_tpy_limit": null,
+  "generator_groups": [
+    {
+      "unit_prefix": "EG",
+      "start_unit_number": 1,
+      "end_unit_number": 26,
+      "raw_unit_id_text": "EG1 through EG26",
+      "equipment_status": "New_or_Modified",
+      "building_or_phase_label": null,
+      "engine_usage_type": "Emergency",
+      "rated_capacity_value": 3000.0,
+      "rated_capacity_unit": "kW",
+      "epa_tier_level": "Tier 2",
+      "has_scr_control": false,
+      "max_operating_hours_per_unit_yr": 500.0,
+      "nox_lb_hr_per_unit": 58.11,
+      "co_lb_hr_per_unit": 11.62,
+      "pm25_lb_hr_per_unit": 0.92,
+      "voc_lb_hr_per_unit": 0.58,
+      "so2_lb_hr_per_unit": null,
+      "source_page_numbers": "4, 7, 9, 12",
+      "verbatim_evidence_quote": "EG1 through EG26 | (26) Caterpillar 3516E diesel-fired emergency engine gen-sets | 3,000 ekW 4,393 bhp (each); Nitrogen Oxides (NOx as NO2): 58.11 lbs/hr"
+    }
+  ]
+}

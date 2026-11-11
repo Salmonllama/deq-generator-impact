@@ -1,0 +1,41 @@
+{
+  "registration_number": "73370",
+  "facility_name": "Gazelle Ventures, LLC (ACC10)",
+  "primary_street_address": "21744 Sir Timothy Drive",
+  "additional_campus_addresses": null,
+  "county_or_city": "Loudoun County",
+  "permit_issue_date": "2017-08-23",
+  "supersedes_prior_permit": false,
+  "superseded_permit_dates": null,
+  "fuel_type": "Ultra-Low Sulfur Diesel (ULSD)",
+  "max_fuel_sulfur_ppm": 15.0,
+  "combined_annual_fuel_limit_gallons": 765000.0,
+  "facility_nox_tpy_limit": 12.4,
+  "facility_co_tpy_limit": 24.6,
+  "facility_pm25_tpy_limit": 2.2,
+  "facility_voc_tpy_limit": 6.3,
+  "facility_so2_tpy_limit": null,
+  "generator_groups": [
+    {
+      "unit_prefix": "EG-",
+      "start_unit_number": 1,
+      "end_unit_number": 9,
+      "raw_unit_id_text": "EG-1A thru EG-9B",
+      "equipment_status": "New_or_Modified",
+      "building_or_phase_label": null,
+      "engine_usage_type": "Emergency",
+      "rated_capacity_value": 2250.0,
+      "rated_capacity_unit": "kW",
+      "epa_tier_level": "Tier 2",
+      "has_scr_control": true,
+      "max_operating_hours_per_unit_yr": 500.0,
+      "nox_lb_hr_per_unit": 5.1,
+      "co_lb_hr_per_unit": 5.8,
+      "pm25_lb_hr_per_unit": 0.4,
+      "voc_lb_hr_per_unit": 1.2,
+      "so2_lb_hr_per_unit": null,
+      "source_page_numbers": "4, 5, 8, 10, 15",
+      "verbatim_evidence_quote": "EG-1A Caterpillar 3516C Diesel Engine Generator 3273 bhp 2250 ekW ... Nitrogen Oxides (as NO2) 5.1 lbs/hr"
+    }
+  ]
+}

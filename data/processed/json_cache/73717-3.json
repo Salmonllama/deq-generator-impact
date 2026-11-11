@@ -1,0 +1,41 @@
+{
+  "registration_number": "73717",
+  "facility_name": "Zayo Group, LLC",
+  "primary_street_address": "1764A Old Meadow Lane",
+  "additional_campus_addresses": null,
+  "county_or_city": "Fairfax County",
+  "permit_issue_date": "2019-05-29",
+  "supersedes_prior_permit": false,
+  "superseded_permit_dates": null,
+  "fuel_type": "Ultra-Low Sulfur Diesel (ULSD)",
+  "max_fuel_sulfur_ppm": 15.0,
+  "combined_annual_fuel_limit_gallons": null,
+  "facility_nox_tpy_limit": 31.77,
+  "facility_co_tpy_limit": 7.41,
+  "facility_pm25_tpy_limit": 1.14,
+  "facility_voc_tpy_limit": null,
+  "facility_so2_tpy_limit": null,
+  "generator_groups": [
+    {
+      "unit_prefix": "EG",
+      "start_unit_number": 5,
+      "end_unit_number": 7,
+      "raw_unit_id_text": "EG5, EG6, EG7",
+      "equipment_status": "New_or_Modified",
+      "building_or_phase_label": null,
+      "engine_usage_type": "Emergency",
+      "rated_capacity_value": 2250.0,
+      "rated_capacity_unit": "kW",
+      "epa_tier_level": "Tier 2",
+      "has_scr_control": false,
+      "max_operating_hours_per_unit_yr": 500.0,
+      "nox_lb_hr_per_unit": 42.36,
+      "co_lb_hr_per_unit": 9.88,
+      "pm25_lb_hr_per_unit": 1.51,
+      "voc_lb_hr_per_unit": null,
+      "so2_lb_hr_per_unit": null,
+      "source_page_numbers": "4, 7, 8, 12",
+      "verbatim_evidence_quote": "EG5, EG6, EG7: Three (3) Cummins model DQKAN DCC emergency diesel engine gen-sets with engine model QSK60-G#(TBD) ... 3,202 bhp 2,250 ekW (each unit); Nitrogen Oxides (as NO2): 42.36 lb/hr"
+    }
+  ]
+}

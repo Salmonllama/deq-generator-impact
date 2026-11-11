@@ -1,0 +1,50 @@
+# ==========================================
+# 1. Secrets & Environment Variables
+# ==========================================
+.env
+.env.*
+!.env.example
+
+# ==========================================
+# 2. Virtual Environments & Python Cache
+# ==========================================
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# ==========================================
+# 3. Jupyter Notebook Checkpoints
+# ==========================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ==========================================
+# 4. Data & Bulk Scraped Files
+# ==========================================
+# Ignore the bulky raw PDFs (since Cell 1 / scraper.py can re-download them anytime)
+data/raw_pdfs/*.pdf
+
+# Ignore intermediate test outputs, but KEEP your final master CSVs & JSON cache!
+# (If you ALSO want to hide json_cache from GitHub, uncomment the second line below)
+data/processed/test_*.csv
+# data/processed/json_cache/*.json
+
+# Keep folder structure in Git even when contents are ignored
+!data/raw_pdfs/.gitkeep
+!data/processed/.gitkeep
+
+# ==========================================
+# 5. IDE & OS Metadata
+# ==========================================
+.idea/
+.vscode/
+.agy/
+.DS_Store
+Thumbs.db
